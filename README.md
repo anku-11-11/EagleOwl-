@@ -1,6 +1,5 @@
 ## Eagle Owl
 
-### Demo link: "https://hi-malay.github.io/eagleowl/"
 
 
 ## Steps to run front-end:
